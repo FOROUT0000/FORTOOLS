@@ -1,19 +1,3 @@
-<div align="center">
-
-![ManifestHub](https://socialify.git.ci/ManifestHub/ManifestHub/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Auto)
-
-![GitHub Repo Size](https://img.shields.io/github/repo-size/ManifestHub/ManifestHub?style=for-the-badge)
-[![GitHub Release (with filter)](https://img.shields.io/github/v/release/ManifestHub/ManifestHub?style=for-the-badge)](https://github.com/ManifestHub/ManifestHub/releases/latest)
-[![GitHub All Releases](https://img.shields.io/github/downloads/ManifestHub/ManifestHub/total?style=for-the-badge&color=violet)](https://github.com/ManifestHub/ManifestHub/releases)
-[![GitHub License](https://img.shields.io/github/license/ManifestHub/ManifestHub?style=for-the-badge)](https://github.com/ManifestHub/ManifestHub/blob/main/LICENSE)
-
-</div>
-
-
-## ManifestHub
- Steam Depot Manifest Cache
-
-
 ## 项目协议
  本项目基于 MIT 许可证发行，以下协议是对于 MIT 原协议的补充，如有冲突，以以下协议为准。
 
@@ -28,15 +12,3 @@
 
  Steam正版平台不易，请尊重版权，支持正版。  
  本项目仅用于对技术可行性的探索及研究，不接受任何商业（包括但不限于广告等）合作。  
-
-
- ## Star 趋势图
-
- [![Stargazers over time](https://starchart.cc/ManifestHub/ManifestHub.svg)](https://starchart.cc/ManifestHub/ManifestHub)
-
-
- ## 贡献者
-
- <a href="https://github.com/ManifestHub/ManifestHub/graphs/contributors">
-   <img src="https://contrib.rocks/image?repo=ManifestHub/ManifestHub" />
- </a>
